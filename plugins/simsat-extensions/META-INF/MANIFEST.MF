@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: simsat-extensions
+Bundle-SymbolicName: simsat-extensions
+Bundle-Version: 1.0.0.qualifier
+Export-Package: esa.egos.simsat.common.util,
+ esa.egos.simsat.mmi.simulationTree.properties
+Require-Bundle: org.eclipse.jface,
+ org.eclipse.ui,
+ org.eclipse.core.runtime
